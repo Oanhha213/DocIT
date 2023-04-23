@@ -1,0 +1,5 @@
+﻿  CacCuaSoDieuKhien.cpp
+E:\LTAPI\CacCuaSoDieuKhien\CacCuaSoDieuKhien.cpp(153,44): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+E:\LTAPI\CacCuaSoDieuKhien\CacCuaSoDieuKhien.cpp(174,36): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+E:\LTAPI\CacCuaSoDieuKhien\CacCuaSoDieuKhien.cpp(179,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+  CacCuaSoDieuKhien.vcxproj -> E:\LTAPI\CacCuaSoDieuKhien\x64\Debug\CacCuaSoDieuKhien.exe
