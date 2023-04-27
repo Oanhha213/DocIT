@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Trandau>
+@{
+    int i = 0;
+    foreach (var item in Model)
+    {
+        i++;
+        var getUrl = "https://localhost:7203/API/cauthuapi/" + item.TranDauId;
+        <nav id="menu" class="pull-right">
+            <ul class="sf-js-enabled sf-shadow">
+                <li class="">
+                    <a style="cursor:pointer" onclick="showCauThu('@getUrl')">@item.TranDauId</a>
+                </li>
+            </ul>
+        </nav>
+        //<li><a style="cursor:pointer" onclick="showCauThu('@getUrl')">@item.TranDauId</a></li>
+        if (i == 7)
+        {
+            break;
+        }
+    }
+}
+<script>
+
+    function showCauThu(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += `<li class="span3">
+                                <div class="product-box">
+                                    <span class="sale_tag"></span>
+                                    <p><a href="product_detail.html"><img src="../images/${val.anh}" alt="" /></a></p>
+                                    <a href="product_detail.html" class="title">${val.hoVaTen}</a><br />
+                                    <a href="products.html" class="category">${val.maTranDau}</a>
+                                </div>
+                            </li>`
+                });
+                $('#DisplayCauThu').html(str);
+            },
+            Error: function (xhr) {
+                alert(xhr.responseText)
+            }
+        });
+    }
+</script>

@@ -1,0 +1,39 @@
+﻿@using demo.Models
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<TLoaiSp>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "DanhSachLoaiSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DanhSachLoaiSanPham</h1>
+
+<p>
+    <a asp-controller="HomeAdmin" asp-action="ThemLoaiSanPhamMoi">Thêm mới loại sản phẩm</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>Day la loai san pham</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Loai)
+            </td>
+            <td>
+                <a asp-controller="HomeAdmin" asp-action="EditLoaiSanPham" asp-route-maLoaiSanPham="@item.MaLoai">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaLoai">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaLoai">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

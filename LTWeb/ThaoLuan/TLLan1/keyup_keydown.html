@@ -1,0 +1,30 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+	<title>Jquery | Keydown() </title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script>
+		$(document).keydown(function(event) {
+			alert('You pressed down a key');
+		});
+	</script>
+</head>
+<body>
+	<h1>Try pressing any key from the keyboard </h1>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        $(document).keyup(function (event) {
+            $("h2").html("Giá trị của phím: "+ $(this).val())
+        });
+    </script>
+</head>
+<body>
+        <h1>Press and release a key from the keyboard</h1>
+		<h2></h2>
+</body>
+</html>

@@ -1,0 +1,845 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\cauthu2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\cauthu2.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\fontawesome-stars.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome-stars.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\helper.css",
+      "PackagePath": "staticwebassets\\assets\\css\\helper.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\css\\venobox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\venobox.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\about-us\\icon\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-us\\icon\\1.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\about-us\\icon\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-us\\icon\\2.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\about-us\\icon\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-us\\icon\\3.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\about-us\\icon\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-us\\icon\\4.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\1_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1_1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\1_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1_2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\1_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1_3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\1_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1_4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\1_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\1_5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\2_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2_1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\2_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2_2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\2_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2_3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\2_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2_4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\2_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2_5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\2_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\2_6.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\3_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\3_1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\3_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\3_2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\banner\\featured-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\featured-banner.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\bg-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-banner\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\bg-banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-banner\\2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\blog-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-banner\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\blog-banner\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-banner\\2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\blog-banner\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-banner\\3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\blog-banner\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-banner\\5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\blog-banner\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-banner\\6.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\blog-banner\\bg-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-banner\\bg-banner.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\blog-banner\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-banner\\large-size\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\blog-banner\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-banner\\large-size\\2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\blog-banner\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-banner\\large-size\\3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\featured-product\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-product\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\featured-product\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-product\\2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\featured-product\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-product\\3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\featured-product\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-product\\4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\featured-product\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-product\\5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\featured-product\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-product\\6.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\menu\\flag-icon\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu\\flag-icon\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\menu\\flag-icon\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu\\flag-icon\\2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\menu\\li-bg-menu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu\\li-bg-menu.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\menu\\logo\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu\\logo\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\menu\\logo\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu\\logo\\2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\payment\\1.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product-details\\admin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-details\\admin.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product-details\\user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product-details\\user.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\10.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\11.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\12.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\13.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\6.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\7.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\8.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\large-size\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\9.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\small-size\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\small-size\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\small-size\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\small-size\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\small-size\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\product\\small-size\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\6.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\shipping-icon\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shipping-icon\\1.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\shipping-icon\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shipping-icon\\2.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\shipping-icon\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shipping-icon\\3.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\shipping-icon\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shipping-icon\\4.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\10.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\11.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\12.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\6.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\7.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\8.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\slider\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\9.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\static-top\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\static-top\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\team\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\1.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\team\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\2.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\team\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\3.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\images\\team\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\4.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\jquery.barrating.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.barrating.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\scrollUp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollUp.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\venobox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\venobox.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\assets\\style.css",
+      "PackagePath": "staticwebassets\\assets\\style.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\cauthu2\\cauthu2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.cauthu2.props",
+      "PackagePath": "build\\cauthu2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.cauthu2.props",
+      "PackagePath": "buildMultiTargeting\\cauthu2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.cauthu2.props",
+      "PackagePath": "buildTransitive\\cauthu2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.cauthu2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

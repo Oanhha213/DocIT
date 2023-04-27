@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Caulacbo>
+<div class="container-fluid">
+	<div class="row">		
+		@foreach(var item in Model)
+		{
+			var getUrl = "https://localhost:7142/api/cauthuapi/" + item.CauLacBoId;
+			<div class="col-sm-12 text-center">
+				<div class="featured">
+					<div class="desc">
+                        <h2><a style="cursor:pointer" onclick="showPeopleByCategory('@getUrl')">@item.TenClb</a></h2>
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+</div>
+<script>
+    function showPeopleByCategory(getUrl) {
+        str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += ` <div class="col-lg-3 mb-4 text-center">
+                <div class="product-entry border">
+                    <a href="#" class="prod-img">
+                            <img src="./ImagesBongDa/${val.anh}" class="img-fluid" alt="Free html5 bootstrap 4 template">
+                    </a>
+                    <div class="desc">
+                        <h2><a href="">${val.hoVaTen}</a></h2>
+                        <span class="price">${val.quocTich}</span>
+                    </div>
+                </div>
+            </div>`
+                })
+                $('.row-pb-md').html(str)
+            },
+            Error: function (ex) {
+                alter(ex.responseText)
+            }
+        })
+    }
+</script>

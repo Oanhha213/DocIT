@@ -1,0 +1,57 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <style>
+        span {
+            display: none;
+        }
+        body {
+            width: 30%;
+            height: 50px;
+            border: 2px solid green;
+            padding: 35px;
+            margin: 10px;
+        }
+    </style>
+    <script src= "https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+    <p>
+        <input type="text"> <span>focused</span>
+    </p>
+    <script>
+        $("input").focus();
+    </script>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <style>
+        span {
+            display: none;
+        }
+  
+        body {
+            width: 35%;
+            height: 50px;
+            border: 2px solid green;
+            padding: 35px;
+            margin: 10px;
+        }
+    </style>
+    <script src= "https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+  
+<body>
+    <p>
+        <input type="text"> <span>focused</span>
+    </p>
+    <script>
+        $("input").focus(function () {
+            $(this).next("span").css("display", "inline");
+        });
+    </script>
+</body>
+</html>

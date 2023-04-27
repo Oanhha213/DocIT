@@ -1,0 +1,1145 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ktra2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ktra2.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\bootstrap\\css\\bootstrap-responsive.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap-responsive.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\bootstrap\\css\\bootstrap-responsive.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap-responsive.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\bootstrap\\img\\glyphicons-halflings-white.png",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\img\\glyphicons-halflings-white.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\bootstrap\\img\\glyphicons-halflings.png",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\img\\glyphicons-halflings.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\css\\bootstrappage.css",
+      "PackagePath": "staticwebassets\\assets\\themes\\css\\bootstrappage.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\assets\\themes\\css\\flexslider.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\assets\\themes\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\themes\\css\\main.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\arrow-p.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\arrow-p.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\arrow-pleft.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\arrow-pleft.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\bg.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\carousel\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\carousel\\banner-1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\carousel\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\carousel\\banner-2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\clients\\1.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\clients\\1.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\clients\\14.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\clients\\14.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\clients\\2.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\clients\\2.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\clients\\3.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\clients\\3.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\clients\\35.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\clients\\35.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\clients\\4.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\clients\\4.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\cloth\\bootstrap-women-ware1.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\cloth\\bootstrap-women-ware1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\cloth\\bootstrap-women-ware2.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\cloth\\bootstrap-women-ware2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\cloth\\bootstrap-women-ware3.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\cloth\\bootstrap-women-ware3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\cloth\\bootstrap-women-ware4.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\cloth\\bootstrap-women-ware4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\cloth\\bootstrap-women-ware5.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\cloth\\bootstrap-women-ware5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\cloth\\bootstrap-women-ware6.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\cloth\\bootstrap-women-ware6.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\feature_img_1.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\feature_img_1.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\feature_img_2.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\feature_img_2.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\feature_img_3.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\feature_img_3.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\gotop.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\gotop.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\ladies\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\ladies\\1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\ladies\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\ladies\\2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\ladies\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\ladies\\3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\ladies\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\ladies\\4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\ladies\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\ladies\\5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\ladies\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\ladies\\6.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\ladies\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\ladies\\7.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\ladies\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\ladies\\8.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\ladies\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\ladies\\9.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\line_bar.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\line_bar.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\logo.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\m1.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\m1.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\m2.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\m2.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\m3.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\m3.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\m4.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\m4.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\m5.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\m5.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\m6.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\m6.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\pageBanner.png",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\pageBanner.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\project_img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\project_img2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\project_img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\project_img3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\project_img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\project_img4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\images\\project_img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\themes\\images\\project_img6.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\js\\common.js",
+      "PackagePath": "staticwebassets\\assets\\themes\\js\\common.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\js\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\themes\\js\\css\\style.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\js\\jquery-1.7.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\themes\\js\\jquery-1.7.2.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\assets\\themes\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\assets\\themes\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\js\\jquery.scrolltotop.js",
+      "PackagePath": "staticwebassets\\assets\\themes\\js\\jquery.scrolltotop.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\assets\\themes\\js\\superfish.js",
+      "PackagePath": "staticwebassets\\assets\\themes\\js\\superfish.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1001.jpeg",
+      "PackagePath": "staticwebassets\\images\\1001.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1002.jpeg",
+      "PackagePath": "staticwebassets\\images\\1002.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1003.jpeg",
+      "PackagePath": "staticwebassets\\images\\1003.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1004.jpeg",
+      "PackagePath": "staticwebassets\\images\\1004.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1005.jpeg",
+      "PackagePath": "staticwebassets\\images\\1005.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1006.jpeg",
+      "PackagePath": "staticwebassets\\images\\1006.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1007.jpeg",
+      "PackagePath": "staticwebassets\\images\\1007.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1008.jpeg",
+      "PackagePath": "staticwebassets\\images\\1008.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1009.jpeg",
+      "PackagePath": "staticwebassets\\images\\1009.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1010.jpeg",
+      "PackagePath": "staticwebassets\\images\\1010.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1011.jpeg",
+      "PackagePath": "staticwebassets\\images\\1011.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1012.jpeg",
+      "PackagePath": "staticwebassets\\images\\1012.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1013.jpeg",
+      "PackagePath": "staticwebassets\\images\\1013.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1014.jpeg",
+      "PackagePath": "staticwebassets\\images\\1014.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1015.jpeg",
+      "PackagePath": "staticwebassets\\images\\1015.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1016.jpeg",
+      "PackagePath": "staticwebassets\\images\\1016.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1017.jpeg",
+      "PackagePath": "staticwebassets\\images\\1017.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1018.jpeg",
+      "PackagePath": "staticwebassets\\images\\1018.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1019.jpeg",
+      "PackagePath": "staticwebassets\\images\\1019.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1020.jpeg",
+      "PackagePath": "staticwebassets\\images\\1020.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1021.jpeg",
+      "PackagePath": "staticwebassets\\images\\1021.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1022.jpeg",
+      "PackagePath": "staticwebassets\\images\\1022.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1023.jpeg",
+      "PackagePath": "staticwebassets\\images\\1023.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1024.jpeg",
+      "PackagePath": "staticwebassets\\images\\1024.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1025.jpeg",
+      "PackagePath": "staticwebassets\\images\\1025.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1026.jpeg",
+      "PackagePath": "staticwebassets\\images\\1026.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1027.jpeg",
+      "PackagePath": "staticwebassets\\images\\1027.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1028.jpeg",
+      "PackagePath": "staticwebassets\\images\\1028.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1029.jpeg",
+      "PackagePath": "staticwebassets\\images\\1029.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1030.jpeg",
+      "PackagePath": "staticwebassets\\images\\1030.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1031.jpeg",
+      "PackagePath": "staticwebassets\\images\\1031.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1032.jpeg",
+      "PackagePath": "staticwebassets\\images\\1032.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1049.jpeg",
+      "PackagePath": "staticwebassets\\images\\1049.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1050.jpeg",
+      "PackagePath": "staticwebassets\\images\\1050.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1051.jpeg",
+      "PackagePath": "staticwebassets\\images\\1051.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1052.jpeg",
+      "PackagePath": "staticwebassets\\images\\1052.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1053.jpeg",
+      "PackagePath": "staticwebassets\\images\\1053.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1054.jpeg",
+      "PackagePath": "staticwebassets\\images\\1054.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1055.jpeg",
+      "PackagePath": "staticwebassets\\images\\1055.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1056.jpeg",
+      "PackagePath": "staticwebassets\\images\\1056.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1057.jpeg",
+      "PackagePath": "staticwebassets\\images\\1057.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1069.jpeg",
+      "PackagePath": "staticwebassets\\images\\1069.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1070.jpeg",
+      "PackagePath": "staticwebassets\\images\\1070.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1071.jpeg",
+      "PackagePath": "staticwebassets\\images\\1071.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1072.jpeg",
+      "PackagePath": "staticwebassets\\images\\1072.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1073.jpeg",
+      "PackagePath": "staticwebassets\\images\\1073.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1074.jpeg",
+      "PackagePath": "staticwebassets\\images\\1074.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1075.jpeg",
+      "PackagePath": "staticwebassets\\images\\1075.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1076.jpeg",
+      "PackagePath": "staticwebassets\\images\\1076.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1077.jpeg",
+      "PackagePath": "staticwebassets\\images\\1077.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1078.jpeg",
+      "PackagePath": "staticwebassets\\images\\1078.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1088.jpeg",
+      "PackagePath": "staticwebassets\\images\\1088.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1089.jpeg",
+      "PackagePath": "staticwebassets\\images\\1089.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1090.jpeg",
+      "PackagePath": "staticwebassets\\images\\1090.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1091.jpeg",
+      "PackagePath": "staticwebassets\\images\\1091.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1092.jpeg",
+      "PackagePath": "staticwebassets\\images\\1092.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1093.jpeg",
+      "PackagePath": "staticwebassets\\images\\1093.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1094.jpeg",
+      "PackagePath": "staticwebassets\\images\\1094.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1095.jpeg",
+      "PackagePath": "staticwebassets\\images\\1095.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1096.jpeg",
+      "PackagePath": "staticwebassets\\images\\1096.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1097.jpeg",
+      "PackagePath": "staticwebassets\\images\\1097.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1098.jpeg",
+      "PackagePath": "staticwebassets\\images\\1098.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1109.jpeg",
+      "PackagePath": "staticwebassets\\images\\1109.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1110.jpeg",
+      "PackagePath": "staticwebassets\\images\\1110.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1111.jpeg",
+      "PackagePath": "staticwebassets\\images\\1111.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1112.jpeg",
+      "PackagePath": "staticwebassets\\images\\1112.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1113.jpeg",
+      "PackagePath": "staticwebassets\\images\\1113.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1114.jpeg",
+      "PackagePath": "staticwebassets\\images\\1114.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1115.jpeg",
+      "PackagePath": "staticwebassets\\images\\1115.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1116.jpeg",
+      "PackagePath": "staticwebassets\\images\\1116.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1117.jpeg",
+      "PackagePath": "staticwebassets\\images\\1117.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1118.jpeg",
+      "PackagePath": "staticwebassets\\images\\1118.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1132.jpeg",
+      "PackagePath": "staticwebassets\\images\\1132.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1133.jpeg",
+      "PackagePath": "staticwebassets\\images\\1133.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1134.jpeg",
+      "PackagePath": "staticwebassets\\images\\1134.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1135.jpeg",
+      "PackagePath": "staticwebassets\\images\\1135.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1136.jpeg",
+      "PackagePath": "staticwebassets\\images\\1136.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1137.jpeg",
+      "PackagePath": "staticwebassets\\images\\1137.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1138.jpeg",
+      "PackagePath": "staticwebassets\\images\\1138.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1139.jpeg",
+      "PackagePath": "staticwebassets\\images\\1139.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1140.jpeg",
+      "PackagePath": "staticwebassets\\images\\1140.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1141.jpeg",
+      "PackagePath": "staticwebassets\\images\\1141.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1142.jpeg",
+      "PackagePath": "staticwebassets\\images\\1142.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1143.jpeg",
+      "PackagePath": "staticwebassets\\images\\1143.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1144.jpeg",
+      "PackagePath": "staticwebassets\\images\\1144.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1145.jpeg",
+      "PackagePath": "staticwebassets\\images\\1145.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1151.jpeg",
+      "PackagePath": "staticwebassets\\images\\1151.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1152.jpeg",
+      "PackagePath": "staticwebassets\\images\\1152.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1153.jpeg",
+      "PackagePath": "staticwebassets\\images\\1153.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1154.jpeg",
+      "PackagePath": "staticwebassets\\images\\1154.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1155.jpeg",
+      "PackagePath": "staticwebassets\\images\\1155.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1156.jpeg",
+      "PackagePath": "staticwebassets\\images\\1156.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1157.jpeg",
+      "PackagePath": "staticwebassets\\images\\1157.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1158.jpeg",
+      "PackagePath": "staticwebassets\\images\\1158.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1159.jpeg",
+      "PackagePath": "staticwebassets\\images\\1159.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1160.jpeg",
+      "PackagePath": "staticwebassets\\images\\1160.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1161.jpeg",
+      "PackagePath": "staticwebassets\\images\\1161.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1162.jpeg",
+      "PackagePath": "staticwebassets\\images\\1162.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1163.jpeg",
+      "PackagePath": "staticwebassets\\images\\1163.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1164.jpeg",
+      "PackagePath": "staticwebassets\\images\\1164.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1165.jpeg",
+      "PackagePath": "staticwebassets\\images\\1165.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1166.jpeg",
+      "PackagePath": "staticwebassets\\images\\1166.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1167.jpeg",
+      "PackagePath": "staticwebassets\\images\\1167.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1168.jpeg",
+      "PackagePath": "staticwebassets\\images\\1168.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1169.jpeg",
+      "PackagePath": "staticwebassets\\images\\1169.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1170.jpeg",
+      "PackagePath": "staticwebassets\\images\\1170.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1171.jpeg",
+      "PackagePath": "staticwebassets\\images\\1171.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1172.jpeg",
+      "PackagePath": "staticwebassets\\images\\1172.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1173.jpeg",
+      "PackagePath": "staticwebassets\\images\\1173.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\1175.jpeg",
+      "PackagePath": "staticwebassets\\images\\1175.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5001.jpeg",
+      "PackagePath": "staticwebassets\\images\\5001.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5002.jpeg",
+      "PackagePath": "staticwebassets\\images\\5002.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5003.jpeg",
+      "PackagePath": "staticwebassets\\images\\5003.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5004.jpeg",
+      "PackagePath": "staticwebassets\\images\\5004.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5005.jpeg",
+      "PackagePath": "staticwebassets\\images\\5005.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5006.jpeg",
+      "PackagePath": "staticwebassets\\images\\5006.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5007.jpeg",
+      "PackagePath": "staticwebassets\\images\\5007.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5008.jpeg",
+      "PackagePath": "staticwebassets\\images\\5008.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5009.jpeg",
+      "PackagePath": "staticwebassets\\images\\5009.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5010.jpeg",
+      "PackagePath": "staticwebassets\\images\\5010.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5011.jpeg",
+      "PackagePath": "staticwebassets\\images\\5011.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5012.jpeg",
+      "PackagePath": "staticwebassets\\images\\5012.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5013.jpeg",
+      "PackagePath": "staticwebassets\\images\\5013.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5014.jpeg",
+      "PackagePath": "staticwebassets\\images\\5014.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5015.jpeg",
+      "PackagePath": "staticwebassets\\images\\5015.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5016.jpeg",
+      "PackagePath": "staticwebassets\\images\\5016.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5018.jpeg",
+      "PackagePath": "staticwebassets\\images\\5018.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5019.jpeg",
+      "PackagePath": "staticwebassets\\images\\5019.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5020.jpeg",
+      "PackagePath": "staticwebassets\\images\\5020.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5021.jpeg",
+      "PackagePath": "staticwebassets\\images\\5021.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5022.jpeg",
+      "PackagePath": "staticwebassets\\images\\5022.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5023.jpeg",
+      "PackagePath": "staticwebassets\\images\\5023.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5024.jpeg",
+      "PackagePath": "staticwebassets\\images\\5024.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5025.jpeg",
+      "PackagePath": "staticwebassets\\images\\5025.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5026.jpeg",
+      "PackagePath": "staticwebassets\\images\\5026.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5028.jpeg",
+      "PackagePath": "staticwebassets\\images\\5028.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5029.jpeg",
+      "PackagePath": "staticwebassets\\images\\5029.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\5030.jpeg",
+      "PackagePath": "staticwebassets\\images\\5030.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD01.jpg",
+      "PackagePath": "staticwebassets\\images\\STD01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD02.jpg",
+      "PackagePath": "staticwebassets\\images\\STD02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD03.jpg",
+      "PackagePath": "staticwebassets\\images\\STD03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD04.jpg",
+      "PackagePath": "staticwebassets\\images\\STD04.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD05.jpg",
+      "PackagePath": "staticwebassets\\images\\STD05.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD06.jpg",
+      "PackagePath": "staticwebassets\\images\\STD06.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD07.jpg",
+      "PackagePath": "staticwebassets\\images\\STD07.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD08.jpg",
+      "PackagePath": "staticwebassets\\images\\STD08.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD09.jpg",
+      "PackagePath": "staticwebassets\\images\\STD09.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD10.jpg",
+      "PackagePath": "staticwebassets\\images\\STD10.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD11.jpg",
+      "PackagePath": "staticwebassets\\images\\STD11.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD12.jpg",
+      "PackagePath": "staticwebassets\\images\\STD12.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD13.jpg",
+      "PackagePath": "staticwebassets\\images\\STD13.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD14.jpg",
+      "PackagePath": "staticwebassets\\images\\STD14.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD15.jpg",
+      "PackagePath": "staticwebassets\\images\\STD15.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD16.jpg",
+      "PackagePath": "staticwebassets\\images\\STD16.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD17.jpg",
+      "PackagePath": "staticwebassets\\images\\STD17.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD18.jpg",
+      "PackagePath": "staticwebassets\\images\\STD18.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD19.jpg",
+      "PackagePath": "staticwebassets\\images\\STD19.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\images\\STD20.jpg",
+      "PackagePath": "staticwebassets\\images\\STD20.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\Ktra2\\Ktra2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ktra2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ktra2.props",
+      "PackagePath": "build\\Ktra2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ktra2.props",
+      "PackagePath": "buildMultiTargeting\\Ktra2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ktra2.props",
+      "PackagePath": "buildTransitive\\Ktra2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

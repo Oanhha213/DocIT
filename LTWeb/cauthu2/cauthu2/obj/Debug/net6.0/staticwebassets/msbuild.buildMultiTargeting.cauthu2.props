@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cauthu2.props" />
+</Project>

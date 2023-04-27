@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutHotel.cshtml";
+}
+@model List<Cauthu>
+<div class="site-section bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mx-auto text-center mb-5 section-heading">
+                <h2 class="mb-5">Danh sách cau thu</h2>
+            </div>
+        </div>
+        <div class="row" id="DisplayCauThu">
+        @foreach (var item in Model)
+        {
+                <div class="col-md-6 col-lg-4 mb-5">
+                    <div class="hotel-room text-center">
+                        <a href="#" class="d-block mb-0 thumbnail"><img src="../images/@item.Anh" alt="Image" class="img-fluid"></a>
+                        <div class="hotel-room-body">
+                            <h3 class="heading mb-0"><a href="#">@item.HoVaTen</a></h3>
+                            <strong class="price">CLB: @item.CauLacBoId</strong>
+                        </div>
+                    </div>
+                    <p><a asp-controller="Home" asp-action="SuaCauThu" asp-route-cauthuid="@item.CauThuId" class="btn btn-primary pill text-white px-4">Sua cau thu</a></p>
+                </div>
+        }
+        </div>
+    </div>
+</div>
