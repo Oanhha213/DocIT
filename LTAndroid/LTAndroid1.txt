@@ -1,0 +1,24 @@
+1. Cấu hình giao diện
+1.1) Chọn layout hay còn gọi là bố cục: có nhiều loại
+ 1.1.1) Linear layout: tuần tự(như inline element)
+ 1.1.2) Constrain layout: ràng buộc giữa các view hoặc view vs layout - chọn điểm neo để ràng buộc
+	vs các view khác hoặc vs layout
+1.2) Xác định kích thước
+ 1.2.1) Width, Height
+	- Đơn vị tuyệt đối: dp,px
+	- Đơn vị tương đối: 
+	 + wrap content: Đủ để chứa nội dung
+	 + match parents: Bằng vs thẻ cha
+1.3) Nội dung: thuộc tính text
+1.4) Định dạng: font, màu, cỡ chữ
+1.5) Đường viền, nền
+1.6) Thuộc tính hint(như placeholder)
+2. Kiểm soát việc thực thi của Activity
+2.1) Tham chiếu tới các view có trên giao diện
+ 2.1.1) Khai báo đối tượng thuộc lớp tương ứng với view
+ 2.1.2) Gọi hàm findViewById với tham số đầu vào là Id của view
+2.2) Tùy biến
+ 2.2.1) Muốn đọc các thuộc tính thì dùng getter
+ 2.2.2) Muốn thiết lập thuộc tính thì dùng setter
+ 2.2.3) Muốn bắt sự kiện thì thêm listener
+ 
