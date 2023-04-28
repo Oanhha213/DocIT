@@ -1,0 +1,2 @@
+F:\LTAPI\API1\API1\obj\Debug\API1.csproj.AssemblyReference.cache
+F:\LTAPI\API1\API1\obj\Debug\API1.csproj.CoreCompileInputs.cache

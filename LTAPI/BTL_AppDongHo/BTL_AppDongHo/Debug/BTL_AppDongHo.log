@@ -1,0 +1,6 @@
+﻿  BTL_AppDongHo.cpp
+F:\LTAPI\BTL_AppDongHo\BTL_AppDongHo\BTL_AppDongHo.cpp(151,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\LTAPI\BTL_AppDongHo\BTL_AppDongHo\BTL_AppDongHo.cpp(299,29): warning C4101: 'BK_Giay': unreferenced local variable
+F:\LTAPI\BTL_AppDongHo\BTL_AppDongHo\BTL_AppDongHo.cpp(299,12): warning C4101: 'BK_Gio': unreferenced local variable
+F:\LTAPI\BTL_AppDongHo\BTL_AppDongHo\BTL_AppDongHo.cpp(299,20): warning C4101: 'BK_Phut': unreferenced local variable
+  BTL_AppDongHo.vcxproj -> F:\LTAPI\BTL_AppDongHo\Debug\BTL_AppDongHo.exe
