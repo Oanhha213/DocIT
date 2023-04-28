@@ -1,0 +1,1325 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ex1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ex1.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\css\\util.css",
+      "PackagePath": "staticwebassets\\assets\\css\\util.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\about-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\about-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-04.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\banner-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-05.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\banner-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-06.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\banner-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-07.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\banner-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-08.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\banner-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-09.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\bg-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-04.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\blog-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-05.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\blog-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-06.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\gallery-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\gallery-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\gallery-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\gallery-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-04.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\gallery-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-05.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\gallery-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-06.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\gallery-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-07.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\gallery-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-08.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\gallery-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery-09.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\item-cart-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-cart-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\item-cart-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-cart-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\item-cart-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-cart-03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\item-cart-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-cart-04.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\item-cart-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-cart-05.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-04.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-05.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-06.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-07.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-08.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-09.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-10.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-11.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-12.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-13.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-14.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-15.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-16.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-detail-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-detail-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-detail-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-detail-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-detail-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-detail-03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-min-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-min-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-min-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-min-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\product-min-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-min-03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\slide-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\slide-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\slide-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-04.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\slide-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-05.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\slide-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-06.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\slide-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide-07.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\thumb-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\thumb-01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\thumb-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\thumb-02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\images\\thumb-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\thumb-03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-custom.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick-custom.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\assets\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\ex1\\ex1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ex1.props",
+      "PackagePath": "build\\ex1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ex1.props",
+      "PackagePath": "buildMultiTargeting\\ex1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ex1.props",
+      "PackagePath": "buildTransitive\\ex1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ex1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

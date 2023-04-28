@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Trandau>
+@{
+    int i = 0;
+    foreach (var item in Model)
+    {
+        i++;
+        var getUrl = "https://localhost:7203/API/cauthuapi/" + item.TranDauId;
+        <li><a style="cursor:pointer" onclick="showCauThu('@getUrl')">TranDau: @item.TranDauId</a></li>
+        if (i == 7)
+        {
+            break;
+        }
+    }
+}
+<script>
+
+	function showCauThu(getUrl) {
+		var str = '';
+		$.ajax({
+			type: 'GET',
+			url: getUrl,
+			dataType: 'json',
+			success: function (data) {
+				$.each(data, function (key, val) {
+                    str += `<div class="col-md-6 col-lg-4 mb-5">
+                        <div class="hotel-room text-center">
+                            <a href="#" class="d-block mb-0 thumbnail"><img src="../images/${val.anh}" alt="Image" class="img-fluid"></a>
+                            <div class="hotel-room-body">
+                                <h3 class="heading mb-0"><a href="#">${val.hoVaTen}</a></h3>
+                                    <strong class="price">${val.maTranDau}</strong>
+                            </div>
+                        </div>
+                    </div>`
+				});
+                $('#DisplayCauThu').html(str);
+			},
+			Error: function (xhr) {
+				alert(xhr.responseText)
+			}
+		});
+	}
+
+</script>

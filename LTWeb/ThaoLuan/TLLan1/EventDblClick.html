@@ -1,0 +1,56 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>	
+	<script>
+			$(document).ready(function () {
+				$("div").click(function () {
+                    $("div").dblclick();
+                })
+			});
+	</script>
+	
+	<style>
+		div {
+			display: block;
+			width: 370px;
+			padding: 10px;
+			font-size: 25px;
+			border: 2px solid green;
+		}
+	</style>
+</head>
+<body>
+	<div ondblclick="alert('dblclick event has been triggered')">
+		Click me to trigger dblclick event
+	</div>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html>
+<head>
+	<script src= "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script>
+			$(document).ready(function () {
+				$("button").dblclick(function () {
+					$("p").fadeOut();
+				});
+			});
+	</script>
+	<style>
+		p {
+			display: block;
+			padding: 20px;
+			color: green;
+			width: 300px;
+			border: 2px solid green;
+			font-size: 25px;
+		}
+	</style>
+</head>
+<body>
+	<p>Welcome to GeeksforGeeks !</p>
+	<button> Click Me! </button>
+</body>	
+</html>
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webLuyenKtra2.props" />
+</Project>

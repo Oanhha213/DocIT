@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Trandau>
+
+@{
+    var i = 0;
+}
+<ul class="nav li-product-menu">
+    @foreach(var item in Model)
+    {
+        var getUrl = "https://localhost:7273/api/cauthu/trandau" + item.TranDauId;
+        <li><a data-toggle="tab" style="cursor:pointer" onclick="showPeopleByCategory('@getUrl')"><span>@item.TranDauId</span></a></li>
+        i++;
+        if (i == 7)
+        {
+            break;
+        }
+    }
+</ul>
+<script>
+    function showPeopleByCategory(getUrl) {
+        str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += ` <div class="owl-item cloned" style="width: 236px;">
+                        <div class="col-lg-12">
+                            <!-- single-product-wrap start -->
+                            <div class="single-product-wrap">
+                                <div class="product-image">
+                                    <a>
+                                            <img src="ImagesBongDa/${val.anh}" alt="Ảnh cầu thủ">
+                                    </a>
+                                </div>
+                                <div class="product_desc">
+                                    <div class="product_desc_info">
+                                        <div class="product-review">
+                                            <h5 class="manufacturer">
+                                                    <a href="shop-left-sidebar.html">${val.hoVaTen}</a>
+                                            </h5>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single-product-wrap end -->
+                        </div>
+                    </div>`
+                })
+                $('#displayCauthu').html(str)
+            },
+            Error: function (ex) {
+                alter(ex.responseText)
+            }
+        })
+    }
+</script>

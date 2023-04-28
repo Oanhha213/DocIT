@@ -1,0 +1,42 @@
+﻿@using demo.Models
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<TLoaiSp>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhMucLoaiSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DanhMucLoaiSanPham</h1>
+
+<p>
+    <a asp-controller="HomeAdmin" asp-action="ThemLoaiSanPham">Thêm loại sản phẩm</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <p>Loại sản phẩm</p>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Loai)
+            </td>
+            <td>
+                <a asp-action="EditLoaiSp" asp-controller="HomeAdmin" asp-route-maLoai="@item.MaLoai">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaLoai">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaLoai">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@Html.PagedListPager(Model,page => Url.Action("DanhMucLoaiSanPham", new {page=page}),new X.PagedList.Web.Common.PagedListRenderOptions(){
+	LiElementClasses = new List<String> {"page-item"},
+	PageClasses = new List<String> {"page-link"}
+})

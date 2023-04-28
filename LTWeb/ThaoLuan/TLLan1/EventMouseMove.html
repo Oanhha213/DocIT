@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <title>The mousemove Method</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("p").mousemove(function () {
+                $("div").css("background-color", "lightgreen");
+            });
+        });
+    </script>
+    <style>
+        div {
+            width: 380px;
+            padding: 20px;
+            height: 60px;
+            border: 2px solid green;
+            font-weight: bold;
+            font-size: 20px;
+        }
+    </style>
+</head> 
+<body>
+    <div>
+        <p>Move over this paragraph.</p>
+    </div>
+</body> 
+</html>

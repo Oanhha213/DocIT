@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "SanPhamTheoLoai";
+    Layout = "~/Views/Shared/_LayoutOgani.cshtml";
+}
+<style>
+    .pagination li.active {
+        width: 30px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        background: #7fad39;
+        border-color: #7fad39;
+        color: #ffffff;
+        font-weight: bold;
+    }
+</style>
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<TDanhMucSp>
+@*model List<TDanhMucSp>*@
+@foreach(var item in Model){
+    @await Html.PartialAsync("_PartialSanPham", item)
+}
+
+<div class="product__pagination col-12">
+    @Html.PagedListPager(Model,page=>Url.Action("SanPhamTheoLoai", new{page=page,maloai=ViewBag.maloai}))
+</div>

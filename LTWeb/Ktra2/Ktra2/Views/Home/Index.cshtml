@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutShopper.cshtml";
+}
+@model List<Cauthu>
+<style>
+    .product-box{
+        width: 210px;
+        height: 400px;
+    }
+
+    .product-box img {
+        width: 180px;
+        height: 250px;
+    }
+</style>
+
+<div id="myCarousel" class="myCarousel carousel slide">
+    <div class="carousel-inner">
+        <div class="active item">
+            <ul class="thumbnails" id="DisplayCauThu">
+                @foreach (var item in Model)
+                {
+                    <li class="span3">
+                        <div class="product-box">
+                            <span class="sale_tag"></span>
+                            <p><a href="product_detail.html"><img src="../images/@item.Anh" alt="" /></a></p>
+                            <a href="product_detail.html" class="title">@item.HoVaTen</a><br />
+                            <p class="price">@item.CauLacBoId</p>
+                            <p class="soAo">Số áo: @item.SoAo</p>
+                            <a asp-controller="Home" asp-action="SuaCauThu" asp-route-cauthuid="@item.CauThuId" class="btn btn-primary">Sua cau thu</a>
+                        </div>
+                    </li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>
+

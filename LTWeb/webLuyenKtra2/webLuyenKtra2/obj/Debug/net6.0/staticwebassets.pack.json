@@ -1,0 +1,1309 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webLuyenKtra2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\webLuyenKtra2.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1001.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1001.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1002.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1002.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1003.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1003.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1004.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1004.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1005.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1005.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1006.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1006.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1007.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1007.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1008.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1008.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1009.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1009.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1010.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1010.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1011.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1011.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1012.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1012.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1013.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1013.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1014.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1014.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1015.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1015.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1016.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1016.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1017.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1017.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1018.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1018.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1019.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1019.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1020.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1020.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1021.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1021.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1022.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1022.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1023.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1023.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1024.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1024.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1025.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1025.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1026.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1026.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1027.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1027.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1028.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1028.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1029.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1029.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1030.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1030.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1031.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1031.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1032.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1032.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1049.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1049.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1050.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1050.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1051.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1051.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1052.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1052.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1053.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1053.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1054.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1054.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1055.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1055.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1056.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1056.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1057.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1057.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1069.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1069.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1070.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1070.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1071.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1071.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1072.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1072.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1073.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1073.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1074.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1074.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1075.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1075.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1076.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1076.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1077.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1077.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1078.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1078.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1088.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1088.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1089.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1089.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1090.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1090.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1091.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1091.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1092.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1092.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1093.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1093.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1094.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1094.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1095.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1095.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1096.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1096.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1097.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1097.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1098.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1098.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1109.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1109.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1110.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1110.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1111.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1111.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1112.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1112.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1113.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1113.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1114.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1114.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1115.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1115.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1116.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1116.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1117.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1117.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1118.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1118.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1132.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1132.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1133.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1133.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1134.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1134.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1135.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1135.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1136.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1136.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1137.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1137.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1138.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1138.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1139.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1139.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1140.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1140.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1141.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1141.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1142.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1142.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1143.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1143.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1144.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1144.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1145.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1145.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1151.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1151.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1152.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1152.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1153.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1153.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1154.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1154.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1155.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1155.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1156.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1156.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1157.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1157.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1158.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1158.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1159.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1159.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1160.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1160.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1161.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1161.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1162.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1162.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1163.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1163.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1164.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1164.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1165.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1165.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1166.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1166.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1167.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1167.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1168.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1168.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1169.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1169.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1170.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1170.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1171.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1171.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1172.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1172.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1173.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1173.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\1175.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\1175.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5001.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5001.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5002.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5002.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5003.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5003.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5004.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5004.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5005.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5005.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5006.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5006.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5007.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5007.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5008.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5008.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5009.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5009.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5010.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5010.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5011.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5011.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5012.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5012.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5013.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5013.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5014.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5014.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5015.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5015.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5016.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5016.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5018.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5018.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5019.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5019.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5020.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5020.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5021.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5021.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5022.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5022.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5023.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5023.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5024.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5024.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5025.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5025.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5026.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5026.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5028.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5028.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5029.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5029.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\5030.jpeg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\5030.jpeg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD01.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD01.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD02.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD02.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD03.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD03.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD04.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD04.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD05.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD05.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD06.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD06.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD07.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD07.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD08.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD08.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD09.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD09.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD10.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD10.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD11.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD11.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD12.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD12.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD13.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD13.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD14.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD14.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD15.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD15.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD16.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD16.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD17.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD17.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD18.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD18.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD19.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD19.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\ImagesBongDa\\STD20.jpg",
+      "PackagePath": "staticwebassets\\ImagesBongDa\\STD20.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\css\\.DS_Store"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\css\\css\\.DS_Store"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\css\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\css\\css\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\assets\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flexslider.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icomoon.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\flaticon\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\.DS_Store"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\icomoon\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\.DS_Store"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\ionicons\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\images\\.DS_Store"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\cover-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cover-img-1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\img_bg_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img_bg_1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\img_bg_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img_bg_2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\img_bg_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\img_bg_3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-10.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-11.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-12.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-13.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-14.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-15.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-16.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-4.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-5.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-6.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-7.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-8.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\item-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-9.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loader.gif"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\loc.png",
+      "PackagePath": "staticwebassets\\assets\\images\\loc.png"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\men.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\men.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\person1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\person1.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\person2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\person2.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\person3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\person3.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\women.jpg"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\js\\.DS_Store"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\aos.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\assets\\js\\google_map.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\magnific-popup-options.js",
+      "PackagePath": "staticwebassets\\assets\\js\\magnific-popup-options.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\assets\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\respond.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\LTWeb\\webLuyenKtra2\\webLuyenKtra2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.webLuyenKtra2.props",
+      "PackagePath": "build\\webLuyenKtra2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.webLuyenKtra2.props",
+      "PackagePath": "buildMultiTargeting\\webLuyenKtra2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.webLuyenKtra2.props",
+      "PackagePath": "buildTransitive\\webLuyenKtra2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.webLuyenKtra2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
